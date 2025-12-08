@@ -47,6 +47,7 @@ public class Main {
         _fight(new Queen());
         _fight(new Knight());
         _fight(new Troll());
+        _fight(new ThmStudent());
     }
 
     /**
