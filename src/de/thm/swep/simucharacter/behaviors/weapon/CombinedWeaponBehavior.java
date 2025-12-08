@@ -11,8 +11,9 @@ public class CombinedWeaponBehavior implements WeaponBehavior {
 
     @Override
     public void useWeapon() {
-        for (WeaponBehavior behavior : weaponBehaviors) {
-            behavior.useWeapon();
+        for (int i = 0; i < weaponBehaviors.size(); i++) {
+            System.out.print("[" + i + "]");
+            weaponBehaviors.get(i).useWeapon();
         }
     }
 }
