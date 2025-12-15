@@ -11,6 +11,11 @@
     {
       "vorname": "John",
       "nachname": "Doe"
+    },
+    {
+      "vorname": "Carsten",
+      "nachname": "Lucke",
+      "jsonfile": "carstenlucke.json"
     }
   ]
 }
