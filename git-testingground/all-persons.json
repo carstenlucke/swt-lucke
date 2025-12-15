@@ -1,0 +1,16 @@
+{
+  "personen": [
+    {
+      "vorname": "Max",
+      "nachname": "Mustermann"
+    },
+    {
+      "vorname": "Erika",
+      "nachname": "Musterfrau"
+    },
+    {
+      "vorname": "John",
+      "nachname": "Doe"
+    }
+  ]
+}
